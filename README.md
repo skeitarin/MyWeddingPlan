@@ -1,2 +1,1 @@
-# MyWeddingPlan
-結婚式の計画
+# [MyWeddingPlan](https://github.com/skeitarin/MyWeddingPlan/wiki)
